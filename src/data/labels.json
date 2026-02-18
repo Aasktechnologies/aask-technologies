@@ -1,0 +1,432 @@
+{
+  "brand": {
+    "name": "AASKTECHNOLOGIES",
+    "tagline": "Industrial Excellence Since 1995",
+    "description": "Leading industrial solutions provider specializing in oil & gas, renewable energy, railways, automotives, and engineering consulting services worldwide."
+  },
+  "navbar": {
+    "links": [
+      { "name": "Home", "href": "/" },
+      { "name": "About", "href": "/about" },
+      { "name": "Services", "href": "/services" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Contact", "href": "/contact" }
+    ],
+    "cta": "Get Quote",
+    "ariaLabel": "Toggle menu"
+  },
+  "hero": {
+    "tagline": "Industrial Excellence Since 1995",
+    "heading": {
+      "line1": "ENGINEERING",
+      "line2": "THE",
+      "line2Highlight": "FUTURE",
+      "line3": "OF INDUSTRY"
+    },
+    "description": "Leading provider of oil & gas, renewable energy, railways, automotive, and engineering solutions across global markets.",
+    "buttons": {
+      "services": "Explore Services",
+      "projects": "View Projects"
+    },
+    "stats": [
+      { "value": "30+", "label": "Years Experience" },
+      { "value": "500+", "label": "Projects Completed" },
+      { "value": "50+", "label": "Global Partners" },
+      { "value": "99%", "label": "Client Satisfaction" }
+    ]
+  },
+  "about": {
+    "sectionLabel": "About AASKTECHNOLOGIES",
+    "heading": "BUILDING TOMORROW'S INFRASTRUCTURE TODAY",
+    "description": "AASKTECHNOLOGIES is a leading industrial conglomerate specializing in oil & gas, renewable energy, railways, automotives, and engineering consulting. With over three decades of experience, we deliver innovative solutions that power industries worldwide.",
+    "badge": {
+      "value": "30+",
+      "label": "Years of Excellence"
+    },
+    "features": [
+      {
+        "icon": "Shield",
+        "title": "Quality Assured",
+        "description": "ISO certified processes ensuring the highest standards in every project"
+      },
+      {
+        "icon": "Users",
+        "title": "Expert Team",
+        "description": "Highly skilled engineers and technicians with decades of experience"
+      },
+      {
+        "icon": "Award",
+        "title": "Industry Leaders",
+        "description": "Recognized excellence in oil & gas, renewable energy, and manufacturing"
+      },
+      {
+        "icon": "Globe",
+        "title": "Global Reach",
+        "description": "Serving clients across continents with local expertise and support"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=600&q=80",
+        "alt": "Industrial facility"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?auto=format&fit=crop&w=600&q=80",
+        "alt": "Oil platform"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?auto=format&fit=crop&w=600&q=80",
+        "alt": "Wind turbines"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?auto=format&fit=crop&w=600&q=80",
+        "alt": "Railway"
+      }
+    ]
+  },
+  "services": {
+    "sectionLabel": "Our Services",
+    "heading": "COMPREHENSIVE INDUSTRIAL SOLUTIONS",
+    "description": "From oil & gas to renewable energy, we provide end-to-end solutions that drive industrial progress and sustainability.",
+    "list": [
+      {
+        "id": "oil-gas",
+        "icon": "Droplet",
+        "title": "Oil & Gas",
+        "image": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?auto=format&fit=crop&w=1200&q=80",
+        "description": "Comprehensive solutions for offshore and onshore operations",
+        "categories": [
+          {
+            "name": "Offshore",
+            "items": [
+              "EPC Contracting",
+              "Electrical Contracting",
+              "Supply of Valves (Gate, Globe, Ball, Butterfly)",
+              "Marine Lightning & Controls",
+              "Fabricated Products for Offshore Industries"
+            ]
+          },
+          {
+            "name": "Onshore",
+            "items": ["Valve Supply & Installation", "Pipeline Components"]
+          },
+          {
+            "name": "Ship Building",
+            "items": ["Valve Supply", "Fabrication Parts", "Steel Supply", "Job Work Activities"]
+          }
+        ]
+      },
+      {
+        "id": "renewable",
+        "icon": "Wind",
+        "title": "Renewable Energy",
+        "image": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?auto=format&fit=crop&w=1200&q=80",
+        "description": "Sustainable energy solutions for a greener future",
+        "categories": [
+          {
+            "name": "Wind Energy",
+            "items": [
+              "Fabricated Parts for Anchoring Systems",
+              "Plasma & Dry Cutting Services",
+              "Laser Cutting Service",
+              "Steel Supply",
+              "Piping & Welding Services"
+            ]
+          },
+          {
+            "name": "Solar Panels",
+            "items": ["Panel Installation", "Mounting Systems", "Grid Integration"]
+          }
+        ]
+      },
+      {
+        "id": "railways",
+        "icon": "Train",
+        "title": "Railways",
+        "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+        "description": "Precision engineering for railway infrastructure",
+        "categories": [
+          {
+            "name": "Services",
+            "items": ["CNC Laser Cutting", "CNC Press Cutting", "MIG/TIG Welding", "Press Forming"]
+          },
+          {
+            "name": "Manufacturing",
+            "items": ["Sheet Metal Fabrication", "Job Work Activities", "Custom Components"]
+          }
+        ]
+      },
+      {
+        "id": "automotive",
+        "icon": "Car",
+        "title": "Automotives",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+        "description": "Advanced automotive manufacturing and testing",
+        "categories": [
+          {
+            "name": "Design & Fabrication",
+            "items": [
+              "Auto Components Manufacturing",
+              "Sheet Metal Fabrication",
+              "CNC Laser & Press Brakes",
+              "Press Components"
+            ]
+          },
+          {
+            "name": "Testing & Validation",
+            "items": [
+              "Electro Dynamic Vibration Shaker Systems",
+              "Guided Head Expanding & Slip Tables",
+              "Climatic Chambers",
+              "Thermal Shocks Testing"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "consulting",
+        "icon": "Wrench",
+        "title": "Engineering & Consulting",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "description": "Expert consulting and specialized testing services",
+        "categories": [
+          {
+            "name": "Testing Services",
+            "items": [
+              "EV Batteries Testing",
+              "Electronic Vibration Testing",
+              "Climatic Chamber Testing",
+              "Special Projects Equipment"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "sections": {
+      "current": {
+        "label": "Active Projects",
+        "heading": "CURRENT PROJECTS",
+        "description": "Our ongoing projects showcase our commitment to innovation and excellence across multiple industries."
+      },
+      "upcoming": {
+        "label": "Future Pipeline",
+        "heading": "UPCOMING WORKS",
+        "description": "Exciting projects in planning and bidding stages that represent the future of industrial innovation."
+      },
+      "recent": {
+        "label": "Recently Completed",
+        "heading": "RECENT PROJECTS",
+        "description": "Successfully completed projects from 2021-2023 demonstrating our expertise and reliability."
+      },
+      "previous": {
+        "label": "Legacy Projects",
+        "heading": "PREVIOUS WORKS",
+        "description": "Historic projects spanning over two decades showcasing our extensive experience and global reach since 2008."
+      }
+    }
+  },
+  "contact": {
+    "sectionLabel": "Get In Touch",
+    "heading": "LET'S BUILD SOMETHING GREAT TOGETHER",
+    "description": "Ready to start your next project? Contact us today for a consultation and discover how AASKTECHNOLOGIES can power your industrial ambitions.",
+    "info": [
+      {
+        "icon": "MapPin",
+        "title": "Visit Us",
+        "details": ["370 APMS NAGAR, MEVALURKUPPAM", "Chennai, Tamil Nadu 600124, India"]
+      },
+      {
+        "icon": "Phone",
+        "title": "Call Us",
+        "details": ["+91-87542-83928", "+91-91504-53142"]
+      },
+      {
+        "icon": "Mail",
+        "title": "Email Us",
+        "details": ["sales@aasktechnologies.com"]
+      },
+      {
+        "icon": "Clock",
+        "title": "Working Hours",
+        "details": ["Mon - Fri: 9:00 AM - 6:00 PM", "Sat: 9:00 AM - 1:00 PM"]
+      }
+    ],
+    "form": {
+      "heading": "REQUEST A QUOTE",
+      "fields": {
+        "firstName": { "label": "First Name", "placeholder": "John" },
+        "lastName": { "label": "Last Name", "placeholder": "Doe" },
+        "email": { "label": "Email", "placeholder": "john@company.com" },
+        "phone": { "label": "Phone", "placeholder": "+91 98765 43210" },
+        "service": { "label": "Service Required", "placeholder": "Oil & Gas, Renewable Energy, etc." },
+        "message": { "label": "Message", "placeholder": "Tell us about your project requirements..." }
+      },
+      "submit": "Send Message"
+    }
+  },
+  "clients": {
+    "heading": "Trusted by Industry Leaders",
+    "list": [
+      { "name": "Shell" },
+      { "name": "BP" },
+      { "name": "Siemens" },
+      { "name": "General Electric" },
+      { "name": "Caterpillar" },
+      { "name": "ABB" }
+    ]
+  },
+  "footer": {
+    "description": "Leading industrial solutions provider specializing in oil & gas, renewable energy, railways, automotives, and engineering consulting services worldwide.",
+    "sections": {
+      "services": {
+        "heading": "SERVICES",
+        "links": [
+          { "name": "Oil & Gas", "href": "/services#oil-gas" },
+          { "name": "Renewable Energy", "href": "/services#renewable" },
+          { "name": "Railways", "href": "/services#railways" },
+          { "name": "Automotives", "href": "/services#automotive" },
+          { "name": "Engineering", "href": "/services#consulting" }
+        ]
+      },
+      "company": {
+        "heading": "COMPANY",
+        "links": [
+          { "name": "About Us", "href": "/about" },
+          { "name": "Services", "href": "/services" },
+          { "name": "Projects", "href": "/projects" },
+          { "name": "Contact", "href": "/contact" }
+        ]
+      }
+    },
+    "social": [
+      { "label": "Facebook", "href": "#" },
+      { "label": "Twitter", "href": "#" },
+      { "label": "LinkedIn", "href": "#" },
+      { "label": "Instagram", "href": "#" }
+    ],
+    "copyright": "AASKTECHNOLOGIES Industrial Solutions. All rights reserved."
+  },
+  "home": {
+    "servicesPreview": {
+      "label": "Our Services",
+      "heading": "COMPREHENSIVE INDUSTRIAL SOLUTIONS",
+      "description": "From oil & gas to renewable energy, we provide end-to-end solutions that drive industrial progress and sustainability.",
+      "viewAll": "View All Services",
+      "learnMore": "Learn More"
+    },
+    "cta": {
+      "heading": "READY TO START YOUR PROJECT?",
+      "description": "Partner with AASKTECHNOLOGIES for world-class industrial solutions. Our team of experts is ready to bring your vision to life.",
+      "buttons": {
+        "quote": "Get a Quote",
+        "about": "Learn About Us"
+      }
+    }
+  },
+  "notFound": {
+    "heading": "404",
+    "message": "Oops! Page not found",
+    "link": "Return to Home"
+  },
+  "meta": {
+    "home": {
+      "title": "AASKTECHNOLOGIES - Industrial Engineering & Energy Solutions",
+      "description": "AASKTECHNOLOGIES provides comprehensive industrial solutions in oil & gas, renewable energy, railways, automotives, and engineering consulting. 30+ years of excellence."
+    },
+    "about": {
+      "title": "About Us - AASKTECHNOLOGIES Industrial Solutions",
+      "description": "Learn about AASKTECHNOLOGIES's 30+ years of excellence in oil & gas, renewable energy, railways, and automotive industries. Discover our mission, vision, and values."
+    },
+    "services": {
+      "title": "Our Services - AASKTECHNOLOGIES Industrial Solutions",
+      "description": "Explore AASKTECHNOLOGIES's comprehensive industrial services including oil & gas, renewable energy, railways, automotives, and engineering consulting."
+    },
+    "projects": {
+      "title": "Our Projects - AASKTECHNOLOGIES Industrial Solutions",
+      "description": "Explore AASKTECHNOLOGIES's portfolio of completed projects across oil & gas, renewable energy, railways, and automotive industries."
+    },
+    "contact": {
+      "title": "Contact Us - AASKTECHNOLOGIES Industrial Solutions",
+      "description": "Get in touch with AASKTECHNOLOGIES for your industrial solution needs. Request a quote or consultation for oil & gas, renewable energy, railways, and more."
+    },
+    "defaultTitle": "AASK - Industrial Engineering & Energy Solutions",
+    "defaultDescription": "AASK provides comprehensive industrial solutions in oil & gas, renewable energy, railways, automotives, and engineering consulting.",
+    "author": "AASK Industrial Solutions"
+  },
+  "pages": {
+    "about": {
+      "header": {
+        "label": "About Us",
+        "heading": "WHO WE ARE"
+      },
+      "values": [
+        {
+          "icon": "Target",
+          "title": "Our Mission",
+          "description": "To deliver innovative and sustainable industrial solutions that empower our clients to achieve operational excellence while contributing to global progress."
+        },
+        {
+          "icon": "Eye",
+          "title": "Our Vision",
+          "description": "To be the world's most trusted partner in industrial engineering, recognized for our commitment to quality, innovation, and environmental responsibility."
+        },
+        {
+          "icon": "Heart",
+          "title": "Our Values",
+          "description": "Integrity, excellence, innovation, and sustainability guide every decision we make. We believe in building lasting relationships through trust and transparency."
+        }
+      ],
+      "timeline": {
+        "label": "Our Journey",
+        "heading": "30 YEARS OF EXCELLENCE",
+        "events": [
+          { "year": "1995", "event": "AASKTECHNOLOGIES founded with focus on oil & gas services" },
+          { "year": "2002", "event": "Expanded into renewable energy sector" },
+          { "year": "2008", "event": "Launched railways division" },
+          { "year": "2012", "event": "Established automotive testing facilities" },
+          { "year": "2018", "event": "Opened international operations" },
+          { "year": "2023", "event": "Reached 500+ completed projects milestone" }
+        ]
+      },
+      "cta": {
+        "heading": "LET'S WORK TOGETHER",
+        "description": "Join the hundreds of companies that trust AASKTECHNOLOGIES for their industrial needs.",
+        "button": "Contact Us"
+      }
+    },
+    "services": {
+      "header": {
+        "label": "Our Services",
+        "heading": "WHAT WE DO",
+        "description": "Comprehensive industrial solutions tailored to meet the unique challenges of modern industry. From concept to completion, we deliver excellence."
+      },
+      "cta": {
+        "heading": "NEED A CUSTOM SOLUTION?",
+        "description": "Our team of experts is ready to develop tailored solutions for your specific requirements.",
+        "button": "Request a Consultation"
+      }
+    },
+    "projects": {
+      "header": {
+        "label": "Our Projects",
+        "heading": "OUR WORK",
+        "description": "Discover our portfolio of successful projects spanning multiple industries and continents. Each project represents our commitment to excellence."
+      },
+      "cta": {
+        "heading": "START YOUR PROJECT TODAY",
+        "description": "Ready to add your project to our success stories? Let's discuss how we can help.",
+        "button": "Get in Touch"
+      }
+    },
+    "contact": {
+      "header": {
+        "label": "Contact Us",
+        "heading": "GET IN TOUCH",
+        "description": "Have a project in mind? Our team is ready to discuss your requirements and provide tailored solutions for your industrial needs."
+      },
+      "mapTitle": "AASKTECHNOLOGIES Office Location"
+    }
+  }
+}
